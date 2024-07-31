@@ -1,12 +1,11 @@
 {
-  "images": [
+  "posts": [
     {
       "id": 1,
-      "title": "yellow",
-      "link": "https://lightroom.adobe.com/v2c/spaces/0bbf4a05a8b1489396f2086697e8e25d/assets/73f2e4c58bb54f59911c57e3e0d2e51a/revisions/1a3e51afc61845768a2f86e03ee827f1/renditions/e14d98bddfa0d8e2bb30cc2511938089",
+      "title": "hello"
     }
   ],
   "profile": {
-    "name": "samples"
+    "name": "typicode"
   }
 }
